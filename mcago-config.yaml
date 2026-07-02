@@ -1,0 +1,8 @@
+apiVersion: platform.mcago.dev/v1alpha1
+kind: Team
+metadata:
+  name: payments
+spec:
+  namespace: team-payments
+  description: Payments squad
+  owner: aastha@google.com
